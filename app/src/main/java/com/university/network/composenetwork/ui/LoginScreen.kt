@@ -272,7 +272,7 @@ fun LoginScreen(
                 Box(
                     modifier = Modifier
                         .fillMaxSize()
-                        .background(Color(0x880096FF)),
+                        .background(Color(0x888F8B8B)),
                     contentAlignment = Alignment.Center
                 ) {
                     Card(
